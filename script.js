@@ -1,3 +1,4 @@
+
 const apiUrl= "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const apiKey = "021029495be4231dbfb1a1fef4bba0a7";
 let imagen = document.getElementById("weather");
