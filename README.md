@@ -12,17 +12,17 @@ This project is built using the following technologies:
 - HTML for structuring the application.
 - CSS for styling the interface and making it visually appealing.
 - JavaScript for handling logic, API requests, and dynamic content updates.
+- OpenWeatherMap API for fetching real-time weather data.
 
 ## 🌐 Use it Online
 You use it directly in your browser by visiting the following URL:
 
-[Play Guess the Number Game](https://arhamisgc.github.io/Weather-App/)
+[Weather App](https://arhamisgc.github.io/Weather-App/)
 
-OpenWeatherMap API for fetching real-time weather data.
 ## 🧑‍💻 How to Use
 - Enter a City: Input the name of the city you want to check the weather for in the search box.
 - Get Weather Info: The app will display the current temperature, humidity, and wind speed.
 - Dynamic Weather Image: The central image will change to reflect the current weather conditions (e.g., sunny, rainy, cloudy).
 
-## Screenshots
+## 💻 Screenshots
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/cd072eea-fa56-4ad5-895c-910dfc625887">
