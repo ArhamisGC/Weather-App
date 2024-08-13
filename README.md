@@ -15,7 +15,7 @@ This project is built using the following technologies:
 - OpenWeatherMap API for fetching real-time weather data.
 
 ## 🌐 Use it Online
-You use it directly in your browser by visiting the following URL:
+You can use it directly in your browser by visiting the following URL:
 
 [Weather App](https://arhamisgc.github.io/Weather-App/)
 
